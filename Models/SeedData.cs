@@ -51,7 +51,33 @@ public static class SeedData
                     Genre = "Western",
                     Price = 3.99M,
                     Rating = "NA"
+                },
+                new Movie
+                {
+                    Title = "The Expendables",
+                    ReleaseDate = DateTime.Parse("2010-8-13"),
+                    Genre = "Action",
+                    Price = 3.99M,
+                    Rating = "R"
+                },
+                new Movie
+                {
+                    Title = "Gulliver's Travels",
+                    ReleaseDate = DateTime.Parse("2010-12-25"),
+                    Genre = "Comedy",
+                    Price = 7.99M,
+                    Rating = "PG"
+                },
+                new Movie
+                {
+                    Title = "Pixels",
+                    ReleaseDate = DateTime.Parse("2015-7-24"),
+                    Genre = "Science Fiction",
+                    Price = 5.99M,
+                    Rating = "PG-13"
                 }
+
+
             );
             context.SaveChanges();
         }

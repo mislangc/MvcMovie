@@ -417,3 +417,4 @@ c:\Users\dopekids\Desktop\BYU-Idaho\Term 1 - 2026\CSE325\Week 2\dotnet_core_mvc\
 c:\Users\dopekids\Desktop\BYU-Idaho\Term 1 - 2026\CSE325\Week 2\dotnet_core_mvc\MvcMovie\obj\Debug\net10.0\MvcMovie.csproj.AssemblyReference.cache
 c:\Users\dopekids\Desktop\BYU-Idaho\Term 1 - 2026\CSE325\Week 2\dotnet_core_mvc\MvcMovie\obj\Debug\net10.0\MvcMovie.csproj.Up2Date
 c:\Users\dopekids\Desktop\BYU-Idaho\Term 1 - 2026\CSE325\Week 2\dotnet_core_mvc\MvcMovie\obj\Debug\net10.0\compressed\8151r5ozgn-{0}-wsxz6xoveo-wsxz6xoveo.gz
+c:\Users\dopekids\Desktop\BYU-Idaho\Term 1 - 2026\CSE325\Week 2\dotnet_core_mvc\MvcMovie\obj\Debug\net10.0\MvcMovie.sourcelink.json
